@@ -13,4 +13,4 @@ Navigate to the directory you want the git repo to live in.
 
 1. [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks](https://eng.uber.com/neural-networks/)
 2. [https://eng.uber.com/neural-networks-uncertainty-estimation/](https://eng.uber.com/neural-networks-uncertainty-estimation/)
-3. [Time-series Extreme Event Forecasting with Neural Networks at Uber](Time-series Extreme Event Forecasting with Neural Networks at Uber)
+3. [Time-series Extreme Event Forecasting with Neural Networks at Uber](http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_3.pdf)
